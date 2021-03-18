@@ -1,10 +1,11 @@
-# Django-project-with-delete-create-read-update-with-postgresql
+**# Django-project-with-delete-create-read-update-with-postgresql**
 Workers' registration webapp
 
-clone @ 
+**clone @** 
 https://github.com/Ndacyayisenga-droid/Django-project-with-delete-create-read-update-with-postgresql.git
 
-INSTALLATION
+**INSTALLATION**
+
 clone the app
 install Postgresql on your machine
 configure the postgresql database according to your specifications eg password in the settings.py file
